@@ -22,6 +22,6 @@ const Ghorbani-Dev1985 = {
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghorbani-Dev1985&show_icons=true&theme=dracula)
-[![wakatime](https://wakatime.com/badge/user/a2dbda50-7939-4983-b0f3-9ce8fcaadb30.svg)](https://wakatime.com/@a2dbda50-7939-4983-b0f3-9ce8fcaadb30)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghorbani-Dev1985&layout=donut)](https://github.com/Ghorbani-Dev1985/github-readme-stats)
 ---
+[![wakatime](https://wakatime.com/badge/user/a2dbda50-7939-4983-b0f3-9ce8fcaadb30.svg)](https://wakatime.com/@a2dbda50-7939-4983-b0f3-9ce8fcaadb30)
