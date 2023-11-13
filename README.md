@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi I.m a frontDeveloper </> 👋
 
-<!--
-**Ghorbani-Dev1985/Ghorbani-Dev1985** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+const Ghorbani-Dev1985 = {
+  status: 202,
+  data: {
+    name: "Mohammad Ghorbani",
+    nickname: "Mohsen",
+    birthDay: "26 Feb. 1985",
+    skills: ["Html" , "Css" , "TailwinsCss" , "EcmaScript" , "React" ],
+    university: "BS Astane Tvu",
+    hobbies: ["Coding" , "Aikido Sport" , "Waik"],
+    quote: "Everything we do is practice for something greater than where we currently are. Practice only makes for improvement. – Les Brown."
+  }
+};
+```
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghorbani-Dev1985&show_icons=true&theme=dracula)
+[![wakatime](https://wakatime.com/badge/user/a2dbda50-7939-4983-b0f3-9ce8fcaadb30.svg)](https://wakatime.com/@a2dbda50-7939-4983-b0f3-9ce8fcaadb30)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghorbani-Dev1985&layout=donut)](https://github.com/Ghorbani-Dev1985/github-readme-stats)
+---
