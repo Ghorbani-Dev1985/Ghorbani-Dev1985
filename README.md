@@ -28,7 +28,8 @@ const Ghorbani-Dev1985 = {
 </div>
 
 
----
+<h2>⚡️ &nbsp; Github Stats</h2>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ghorbani-Dev1985&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghorbani-Dev1985&layout=donut)](https://github.com/Ghorbani-Dev1985/github-readme-stats)
 ---
