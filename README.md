@@ -44,7 +44,7 @@ const Ghorbani-Dev1985 = {
   <a href="https://ghorbani-dev.ir/">
     <img src="https://img.shields.io/badge/Website-www.Ghorbani--Dev.ir-blue?style=flat&logo=google-chrome" />
   </a>
-  <a href="https://instagram.com/ghorbani-dev1985/">
+  <a href="https://instagram.com/ghorbani_dev">
     <img src="https://img.shields.io/badge/Instagram-@ghorbani--dev1985-red?style=flat&logo=instagram" />
   </a>
   <a href="https://t.me/ghorbani-dev1985/">
