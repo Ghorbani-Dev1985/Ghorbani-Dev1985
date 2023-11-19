@@ -42,13 +42,13 @@ const Ghorbani-Dev1985 = {
 
 <p align="center">
   <a href="https://ghorbani-dev1985.ir/">
-    <img src="https://img.shields.io/badge/Website-www.Ghorbani-Dev1985.ir-blue?style=flat&logo=google-chrome" />
+    <img src="https://img.shields.io/badge/Website-www.Ghorbani--Dev1985.ir-blue?style=flat&logo=google-chrome" />
   </a>
   <a href="https://instagram.com/ghorbani-dev1985/">
-    <img src="https://img.shields.io/badge/Instagram-@ghorbani-dev1985-red?style=flat&logo=instagram" />
+    <img src="https://img.shields.io/badge/Instagram-@ghorbani--dev1985-red?style=flat&logo=instagram" />
   </a>
   <a href="https://t.me/ghorbani-dev1985/">
-    <img src="https://img.shields.io/badge/Telegram-@ghorbani-dev1985-blue?style=flat&logo=telegram" />
+    <img src="https://img.shields.io/badge/Telegram-@ghorbani--dev1985-blue?style=flat&logo=telegram" />
   </a>
 </p>
 <br />
