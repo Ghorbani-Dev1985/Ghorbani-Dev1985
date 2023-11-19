@@ -41,8 +41,8 @@ const Ghorbani-Dev1985 = {
 <h2>📞 &nbsp; Connct Me </h2>
 
 <p align="center">
-  <a href="https://ghorbani-dev1985.ir/">
-    <img src="https://img.shields.io/badge/Website-www.Ghorbani--Dev1985.ir-blue?style=flat&logo=google-chrome" />
+  <a href="https://ghorbani-dev.ir/">
+    <img src="https://img.shields.io/badge/Website-www.Ghorbani--Dev.ir-blue?style=flat&logo=google-chrome" />
   </a>
   <a href="https://instagram.com/ghorbani-dev1985/">
     <img src="https://img.shields.io/badge/Instagram-@ghorbani--dev1985-red?style=flat&logo=instagram" />
