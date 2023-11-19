@@ -1,7 +1,7 @@
 # Hi I'm a Front-End Developer </> 👋
 
 ```js
-const Ghorbani-Dev.ir = {
+const Ghorbani-Dev1985 = {
   status: 202,
   data: {
     name: "Mohammad Ghorbani",
@@ -53,4 +53,4 @@ const Ghorbani-Dev.ir = {
 </p>
 <br />
 
-⭐️ From [Ghorbani-Dev.ir ❤️](https://ghorbani-dev.ir/)
+⭐️ From [Ghorbani-Dev1985 ❤️](https://ghorbani-dev.ir/)
