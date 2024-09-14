@@ -11,7 +11,7 @@ const Ghorbani-Dev1985 = {
     name: "Mohammad Ghorbani",
     nickname: "Mohsen",
     birthDay: "26 Feb. 1985",
-    skills: ["Html" , "Css" , "TailwinsCss" , "EcmaScript" , "React" ],
+    skills: ["Html" , "Css" , "TailwinsCss" , "EcmaScript" , "React.JS" , "Next.JS" , "TypeScript" ],
     university: "BS Astane Tvu",
     hobbies: ["Coding" , "Aikido Sport" , "Waik"],
     quote: "Everything we do is practice for something greater than where we currently are. Practice only makes for improvement. – Les Brown."
